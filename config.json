@@ -1,0 +1,20 @@
+{
+	"email-settings":{
+		"user"       : "username"
+		, "password" : "password"
+		, "host"     : "smtp.gmail.com"
+		, "ssl"     : true
+	}
+	,"email-settings1":{
+		"user"       : "username"
+		, "password" : "password"
+		, "host"     : "smtp.gmail.com"
+		, "ssl"     : true
+	}
+	,"email-settings2":{
+		"user"       : "username"
+		, "password" : "password"
+		, "host"     : "smtp.gmail.com"
+		, "ssl"     : true
+	}
+}
